@@ -34,7 +34,7 @@ namespace LA_403_7742_L
                 // 20'000 meter ~ 11.3 h
                 try
                 {
-                    Console.Write("Geben sie die Höhe des Satelliten in Kilometern an: ");
+                    Console.Write("Geben Sie die Höhe des Satelliten in Kilometern an: ");
                     douHeight = Convert.ToDouble(Console.ReadLine());
                     if(douHeight < minHeight)
                     {
