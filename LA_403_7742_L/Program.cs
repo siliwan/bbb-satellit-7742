@@ -10,7 +10,7 @@ namespace LA_403_7742_L
     // Datei:			Program.cs
     // Datum:			30.11.2018
     // Ersteller:		**REDACTED**
-    // Version:		    1.0
+    // Version:		    	1.0
     // Änderungen:		-
     // Beschreibung:
     // Rechnet die Umlaufzeit mit einer Höhe von einem Satelliten aus
