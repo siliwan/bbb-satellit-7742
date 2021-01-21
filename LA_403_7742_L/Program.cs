@@ -13,7 +13,7 @@ namespace LA_403_7742_L
     // Version:		    	1.0
     // Änderungen:		-
     // Beschreibung:
-    // Rechnet die Umlaufzeit mit einer Höhe von einem Satelliten aus
+    // Rechnet die Umlaufzeit mit einer Höhe von einem Satelliten aus.
     // --------------------------------------------
 
     class Program
